@@ -3,8 +3,8 @@
     margin: none;
 }
 
-.item{
-    grid-template-rows: 100px 100px 100px;
+.body{
+    grid-template-columns: 100px 100px 100px;
     background-color:rgb(52, 10, 205);
     padding: 2em;
 }
