@@ -1,11 +1,17 @@
 .titulo{
     background-color: blueviolet;
-    display: flex;
     margin: none;
 }
 
-.treino{
-    grid-template-columns: 100px 100px 100px;
+.item{
+    grid-template-rows: 100px 100px 100px;
     background-color:rgb(52, 10, 205);
     padding: 2em;
 }
+
+/* .alt{
+    grid-template-rows: 50px 50px 50px;
+    background-color: rgb(104, 205, 10);
+} */
+
+
