@@ -1,10 +1,11 @@
 .titulo{
     background-color: blueviolet;
     margin: none;
+    display:grid;
 }
 
 .body{
-    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
     background-color:rgb(52, 10, 205);
     padding: 2em;
 }
